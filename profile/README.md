@@ -60,13 +60,13 @@ Pengembangan tahap **Pertemuan 10–11** telah selesai **100%** mencakup fondasi
 
 ---
 
-## Tautan Penting & Sumber Daya
+## Tautan Repository
 
 Silakan akses komponen repositori proyek kami melalui tautan berikut:
 
-- **[Repositori Utama Proyek](https://github.com/ORG-ANDA/NAMA-REPO)**
-- **[Modul Logika Dasar (Pertemuan 10)](https://github.com/ORG-ANDA/NAMA-REPO/tree/main/pertemuan10)**
-- **[Aplikasi Lengkap & Dokumentasi (Pertemuan 11)](https://github.com/ORG-ANDA/NAMA-REPO/tree/main/pertemuan11)**
+- **[Repositori Utama Proyek](https://github.com/TakarSaku)**
+- **[Repositori Pertemuan 10](https://github.com/TakarSaku/project-akhir-pemwe/tree/main/pertemuan10)**
+- **[Repositori Pertemuan 11](https://github.com/TakarSaku/project-akhir-pemwe/tree/main/pertemuan%2011)**
 
 ---
 
