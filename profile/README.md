@@ -25,7 +25,7 @@ Mahasiswa sering menghadapi kendala dalam mengendalikan pengeluaran bulanan lint
 | Nama                                     | NPM        | Status |
 | :--------------------------------------- | :--------- | :----- |
 | **Gihan Dimas Ardiyan**                  | 2240501145 | Aktif  |
-| **Alin Rahma Herdiyanti**                | 232050109  | Aktif  |
+| **Alin Rahma Herdiyanti**                | 2320501098 | Aktif  |
 | **Rizky Aulia Zahra**                    | 2330501103 | Aktif  |
 | **Muhammad Hatta Mabarun Khalifatullah** | 2340501139 | Aktif  |
 
